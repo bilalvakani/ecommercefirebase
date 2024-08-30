@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecommercefirebase/static/css/main.af994e50.css",
+    "main.js": "/ecommercefirebase/static/js/main.7bc1e9da.js",
+    "static/js/453.2d40735f.chunk.js": "/ecommercefirebase/static/js/453.2d40735f.chunk.js",
+    "index.html": "/ecommercefirebase/index.html",
+    "main.af994e50.css.map": "/ecommercefirebase/static/css/main.af994e50.css.map",
+    "main.7bc1e9da.js.map": "/ecommercefirebase/static/js/main.7bc1e9da.js.map",
+    "453.2d40735f.chunk.js.map": "/ecommercefirebase/static/js/453.2d40735f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af994e50.css",
+    "static/js/main.7bc1e9da.js"
+  ]
+}
