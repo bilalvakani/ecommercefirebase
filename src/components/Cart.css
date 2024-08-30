@@ -1,0 +1,43 @@
+.summary-box {
+    background: #f8f9fa;
+    padding: 21px;
+    border-radius: 25px;
+    border: black;
+    box-shadow: 0 2px 5px rgba(235, 20, 20, 0.894);
+    width: 50%;
+    max-width: 500px; /* Adjust as needed */
+    margin: auto;
+    text-align: center;
+}
+
+.summary-details {
+    /* margin-bottom: 20px; */
+    text-align: center;
+}
+
+.summary-details div {
+    /* margin-bottom: 10px; */
+}
+
+.summary-details span {
+    font-weight: bold;
+}
+
+h5 {
+    margin-bottom: 20px;
+}
+
+h6 {
+    margin-top: 7px;
+    font-size: 14px;
+}
+
+.btn-secondary {
+    background-color: #0375d9;
+    border: none;
+}
+
+.btn-md {
+    padding: 10px 20px;
+}
+
